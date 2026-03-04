@@ -142,16 +142,6 @@ We conducted a series of experiments on our dataset to evaluate the critical app
 </p>
 
 <p align="center">
-  <img width="600" src="./images/mediumprompt.png">
-  <br>
-</p>
-
-<p align="center">
-  <img width="600" src="./images/shortprompt.png">
-  <br>
-</p>
-
-<p align="center">
   <img width="600" src="./images/reasoning_results.png">
   <br>
 </p>

@@ -140,12 +140,14 @@ We conducted a series of experiments on our dataset to evaluate the critical app
   <img width="600" src="./images/longprompt.png">
   <br>
 </p>
+Results of long-context models on the biomedical MCQA task of our dataset: zero-shot with full-text article provided. Bold values indicate the best results per metric, and underlined values the second-best. Baselines include random or frequency-based answer selection strategies.
 
 <p align="center">
   <img width="600" src="./images/reasoning_results.png">
   <br>
 </p>
 <br>
+Comparison of model performance according to "reasoning" tokens generation level on the CareMedEval benchmark.
 
 
 <h3>Citation</h3>
